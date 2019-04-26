@@ -1,0 +1,206 @@
+fileFormatVersion: 2
+guid: e464c3661332342498354d3383065077
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Box_door
+    100002: connector_1
+    100004: connector_2
+    100006: connector_3
+    100008: connector_4
+    100010: connector_5
+    100012: knob
+    100014: lock
+    100016: //RootNode
+    100018: old_connector_2
+    100020: old_connector_5
+    100022: Power_Module_1
+    100024: Power_Module_2
+    100026: Power_Module_3
+    100028: Power_Module_4
+    100030: power_pad
+    100032: Power_socket
+    100034: rivet_1
+    100036: rivet_2
+    100038: rivet_3
+    100040: rivet_4
+    100042: rivet_5
+    100044: rivet_6
+    100046: rivets
+    400000: Box_door
+    400002: connector_1
+    400004: connector_2
+    400006: connector_3
+    400008: connector_4
+    400010: connector_5
+    400012: knob
+    400014: lock
+    400016: //RootNode
+    400018: old_connector_2
+    400020: old_connector_5
+    400022: Power_Module_1
+    400024: Power_Module_2
+    400026: Power_Module_3
+    400028: Power_Module_4
+    400030: power_pad
+    400032: Power_socket
+    400034: rivet_1
+    400036: rivet_2
+    400038: rivet_3
+    400040: rivet_4
+    400042: rivet_5
+    400044: rivet_6
+    400046: rivets
+    2100000: lambert1
+    2300000: Box_door
+    2300002: connector_1
+    2300004: connector_2
+    2300006: connector_3
+    2300008: connector_4
+    2300010: connector_5
+    2300012: knob
+    2300014: lock
+    2300016: //RootNode
+    2300018: old_connector_2
+    2300020: old_connector_5
+    2300022: Power_Module_1
+    2300024: Power_Module_2
+    2300026: Power_Module_3
+    2300028: Power_Module_4
+    2300030: power_pad
+    2300032: Power_socket
+    2300034: rivet_1
+    2300036: rivet_2
+    2300038: rivet_3
+    2300040: rivet_4
+    2300042: rivet_5
+    2300044: rivet_6
+    3300000: Box_door
+    3300002: connector_1
+    3300004: connector_2
+    3300006: connector_3
+    3300008: connector_4
+    3300010: connector_5
+    3300012: knob
+    3300014: lock
+    3300016: //RootNode
+    3300018: old_connector_2
+    3300020: old_connector_5
+    3300022: Power_Module_1
+    3300024: Power_Module_2
+    3300026: Power_Module_3
+    3300028: Power_Module_4
+    3300030: power_pad
+    3300032: Power_socket
+    3300034: rivet_1
+    3300036: rivet_2
+    3300038: rivet_3
+    3300040: rivet_4
+    3300042: rivet_5
+    3300044: rivet_6
+    4300000: Lockbox_base
+    4300002: rivet_4
+    4300004: rivet_3
+    4300006: rivet_2
+    4300008: rivet_1
+    4300010: Power_Module_4
+    4300012: power_pad
+    4300014: Power_Module_3
+    4300016: Power_Module_2
+    4300018: Power_socket
+    4300020: connector_1
+    4300022: old_connector_2
+    4300024: old_connector_5
+    4300026: connector_2
+    4300028: connector_3
+    4300030: connector_4
+    4300032: connector_5
+    4300034: Power_Module_1
+    4300036: knob
+    4300038: Box_door
+    4300040: lock
+    4300042: rivet_6
+    4300044: rivet_5
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
