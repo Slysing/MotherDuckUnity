@@ -1,14 +1,28 @@
 fileFormatVersion: 2
-guid: 5396d9552f225574ca8ea8be2143d424
+guid: d433d0650c7a47b4eb863cce9713229a
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: //RootNode
-    400000: //RootNode
+    100000: Default_Prototype
+    100002: pCube1
+    100004: //RootNode
+    100006: Pillar_East_Default_Prototype
+    400000: Default_Prototype
+    400002: pCube1
+    400004: //RootNode
+    400006: Pillar_East_Default_Prototype
     2100000: lambert1
-    2300000: //RootNode
-    3300000: //RootNode
-    4300000: Pillar_East_Default_Prototype
+    2300000: Default_Prototype
+    2300002: pCube1
+    2300004: Pillar_East_Default_Prototype
+    2300006: //RootNode
+    3300000: Default_Prototype
+    3300002: pCube1
+    3300004: Pillar_East_Default_Prototype
+    3300006: //RootNode
+    4300000: pCube1
+    4300002: Default_Prototype
+    4300004: Pillar_East_Default_Prototype
   externalObjects: {}
   materials:
     importMaterials: 1
