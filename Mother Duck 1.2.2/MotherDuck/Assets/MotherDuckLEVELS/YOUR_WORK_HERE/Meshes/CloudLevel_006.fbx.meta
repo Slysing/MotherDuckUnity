@@ -1,43 +1,17 @@
 fileFormatVersion: 2
-guid: 5deacf4132a204247ad44eb535174ac4
+guid: 43c5c986832ebe44d9dbfe198f85e68a
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: Cover
-    100002: //RootNode
-    100004: Pillar
-    100006: staircube
-    100008: WestStair_main
-    100010: pCube3
-    400000: Cover
-    400002: //RootNode
-    400004: Pillar
-    400006: staircube
-    400008: WestStair_main
-    400010: pCube3
+    100000: //RootNode
+    400000: //RootNode
     2100000: lambert5
-    2100002: lambert6
-    2100004: lambert1
-    2100006: lambert14
-    2300000: Cover
-    2300002: Pillar
-    2300004: staircube
-    2300006: WestStair_main
-    2300008: //RootNode
-    2300010: pCube3
-    3300000: Cover
-    3300002: Pillar
-    3300004: staircube
-    3300006: WestStair_main
-    3300008: //RootNode
-    3300010: pCube3
-    4300000: Pillar
-    4300002: staircube
-    4300004: Cover
-    4300006: WestStair_main
-    4300008: pCube3
-    7400000: Take 001
-    9500000: //RootNode
+    2100002: bluestone_light
+    2100004: lambert6
+    2100006: lambert7
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: CloudLevel1
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -89,8 +63,8 @@ ModelImporter:
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 0.01
-    hasPreviousCalculatedGlobalScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -115,7 +89,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 0
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
