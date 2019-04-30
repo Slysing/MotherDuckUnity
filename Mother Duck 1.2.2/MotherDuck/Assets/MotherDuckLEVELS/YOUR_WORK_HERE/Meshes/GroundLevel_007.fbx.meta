@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: e272794c69cc2cb4188e76ef151bfb06
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: GroundLevel_Main
+    100004: Slopey_boi
+    100006: Wall_Topper
+    100008: Wall_Topper1
+    100010: Wall_Topper2
+    100012: Wall_Topper3
+    100014: Wall_Topper4
+    100016: Downfill
+    100018: Downfill_1
+    100020: Downfill_2
+    100022: Wall_Toppers
+    400000: //RootNode
+    400002: GroundLevel_Main
+    400004: Slopey_boi
+    400006: Wall_Topper
+    400008: Wall_Topper1
+    400010: Wall_Topper2
+    400012: Wall_Topper3
+    400014: Wall_Topper4
+    400016: Downfill
+    400018: Downfill_1
+    400020: Downfill_2
+    400022: Wall_Toppers
+    2100000: lambert4
+    2100002: lambert1
+    2100004: side_bricks
+    2300000: GroundLevel_Main
+    2300002: Slopey_boi
+    2300004: Wall_Topper
+    2300006: Wall_Topper1
+    2300008: Wall_Topper2
+    2300010: Wall_Topper3
+    2300012: Wall_Topper4
+    2300014: Downfill_1
+    2300016: Downfill_2
+    3300000: GroundLevel_Main
+    3300002: Slopey_boi
+    3300004: Wall_Topper
+    3300006: Wall_Topper1
+    3300008: Wall_Topper2
+    3300010: Wall_Topper3
+    3300012: Wall_Topper4
+    3300014: Downfill_1
+    3300016: Downfill_2
+    4300000: Wall_Topper
+    4300002: Wall_Topper1
+    4300004: Wall_Topper2
+    4300006: Wall_Topper4
+    4300008: Wall_Topper3
+    4300010: Slopey_boi
+    4300012: GroundLevel_Main
+    4300014: Downfill_1
+    4300016: Downfill_2
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
